@@ -1,0 +1,186 @@
+﻿ShortCode,Code6392B,Code6392T,LanguageName,LanguageNative,Direction,Script
+aa,aar,aar,Afar,Afaraf,ltr,NULL
+ab,abk,abk,Abkhaz,"аҧсуа бызшәа, аҧсшәа",ltr,Cyrl
+ae,ave,ave,Avestan,avesta,NULL,NULL
+af,afr,afr,Afrikaans,Afrikaans,ltr,Latn
+ak,aka,aka,Akan,Akan,ltr,NULL
+am,amh,amh,Amharic,አማርኛ,ltr,Ethi
+an,arg,arg,Aragonese,aragonés,ltr,NULL
+ar,ara,ara,Arabic,العربية,rtl,Arab
+as,asm,asm,Assamese,অসমীয়া,ltr,Beng
+av,ava,ava,Avaric,"авар мацӀ, магӀарул мацӀ",ltr,NULL
+ay,aym,aym,Aymara,aymar aru,ltr,Latn
+az,aze,aze,Azerbaijani,azərbaycan dili,ltr,NULL
+az,azb,azb,South Azerbaijani,تورکجه‎,ltr,NULL
+ba,bak,bak,Bashkir,башҡорт теле,ltr,NULL
+be,bel,bel,Belarusian,беларуская мова,ltr,Cyrl
+bg,bul,bul,Bulgarian,български език,ltr,Cyrl
+bh,bih,bih,Bihari,भोजपुरी,ltr,NULL
+bi,bis,bis,Bislama,Bislama,ltr,NULL
+bm,bam,bam,Bambara,bamanankan,ltr,NULL
+bn,ben,ben,Bengali; Bangla,বাংলা,ltr,Beng
+bo,bod,tib,"Tibetan Standard, Tibetan, Central",བོད་ཡིག,ltr,NULL
+br,bre,bre,Breton,brezhoneg,ltr,NULL
+bs,bos,bos,Bosnian,bosanski jezik,ltr,Latn
+ca,cat,cat,Catalan; Valencian,"català, valencià",ltr,Latn
+ce,che,che,Chechen,нохчийн мотт,ltr,NULL
+ch,cha,cha,Chamorro,Chamoru,ltr,Latn
+co,cos,cos,Corsican,"corsu, lingua corsa",ltr,NULL
+cr,cre,cre,Cree,ᓀᐦᐃᔭᐍᐏᐣ,ltr,NULL
+cs,ces,cze,Czech,"čeština, český jazyk",ltr,Latn
+cu,chu,chu,"Old Church Slavonic, Church Slavonic, Old Bulgarian",ѩзыкъ словѣньскъ,ltr,NULL
+cv,chv,chv,Chuvash,чӑваш чӗлхи,ltr,NULL
+cy,cym,wel,Welsh,Cymraeg,ltr,Latn
+da,dan,dan,Danish,dansk,ltr,Latn
+de,deu,ger,German,Deutsch,ltr,Latn
+dv,div,div,Divehi; Dhivehi; Maldivian;,ދިވެހި,rtl,Thaa
+dz,dzo,dzo,Dzongkha,རྫོང་ཁ,ltr,Tibt
+ee,ewe,ewe,Ewe,Eʋegbe,ltr,NULL
+el,ell,gre,"Greek, Modern",ελληνικά,ltr,Grek
+en,eng,eng,English,English,ltr,Latn
+eo,epo,epo,Esperanto,Esperanto,ltr,Latn
+es,spa,spa,Spanish; Castilian,"español, castellano",ltr,Latn
+et,est,est,Estonian,"eesti, eesti keel",ltr,Latn
+eu,eus,baq,Basque,"euskara, euskera",ltr,Latn
+fa,fas,per,Persian (Farsi),فارسی,rtl,Arab
+ff,ful,ful,Fula; Fulah; Pulaar; Pular,"Fulfulde, Pulaar, Pular",ltr,NULL
+fi,fin,fin,Finnish,"suomi, suomen kieli",ltr,Latn
+fj,fij,fij,Fijian,vosa Vakaviti,ltr,Latn
+fo,fao,fao,Faroese,føroyskt,ltr,Latn
+fr,fra,fre,French,"français, langue française",ltr,Latn
+fy,fry,fry,Western Frisian,Frysk,ltr,Latn
+ga,gle,gle,Irish,Gaeilge,ltr,Latn
+gd,gla,gla,Scottish Gaelic; Gaelic,Gàidhlig,ltr,NULL
+gl,glg,glg,Galician,galego,ltr,Latn
+gn,grn,grn,Guaraní,Avañe'ẽ,ltr,Latn
+gu,guj,guj,Gujarati,ગુજરાતી,ltr,Gujr
+gv,glv,glv,Manx,"Gaelg, Gailck",ltr,Latn
+ha,hau,hau,Hausa,"Hausa, هَوُسَ",rtl,NULL
+he,heb,heb,Hebrew (modern),עברית,rtl,Hebr
+hi,hin,hin,Hindi,"हिन्दी, हिंदी",ltr,Deva
+ho,hmo,hmo,Hiri Motu,Hiri Motu,ltr,NULL
+hr,hrv,hrv,Croatian,hrvatski jezik,ltr,Latn
+ht,hat,hat,Haitian; Haitian Creole,Kreyòl ayisyen,ltr,Latn
+hu,hun,hun,Hungarian,magyar,ltr,Latn
+hy,hye,arm,Armenian,Հայերեն,ltr,Armn
+hz,her,her,Herero,Otjiherero,ltr,NULL
+ia,ina,ina,Interlingua,Interlingua,ltr,NULL
+id,ind,ind,Indonesian,Bahasa Indonesia,ltr,Latn
+ie,ile,ile,Interlingue,Originally called Occidental; then Interlingue after WWII,ltr,NULL
+ig,ibo,ibo,Igbo,Asụsụ Igbo,ltr,NULL
+ii,iii,iii,Nuosu,ꆈꌠ꒿ Nuosuhxop,ltr,NULL
+ik,ipk,ipk,Inupiaq,"Iñupiaq, Iñupiatun",ltr,NULL
+io,ido,ido,Ido,Ido,ltr,NULL
+is,isl,ice,Icelandic,Íslenska,ltr,Latn
+it,ita,ita,Italian,italiano,ltr,Latn
+iu,iku,iku,Inuktitut,ᐃᓄᒃᑎᑐᑦ,ltr,NULL
+ja,jpn,jpn,Japanese,日本語 (にほんご),ltr,Jpan
+jv,jav,jav,Javanese,basa Jawa,ltr,NULL
+ka,kat,geo,Georgian,ქართული,ltr,Geor
+kg,kon,kon,Kongo,KiKongo,ltr,NULL
+ki,kik,kik,"Kikuyu, Gikuyu",Gĩkũyũ,ltr,NULL
+kj,kua,kua,"Kwanyama, Kuanyama",Kuanyama,ltr,NULL
+kk,kaz,kaz,Kazakh,қазақ тілі,ltr,Cyrl
+kl,kal,kal,"Kalaallisut, Greenlandic","kalaallisut, kalaallit oqaasii",ltr,Latn
+km,khm,khm,Khmer,"ខ្មែរ, ខេមរភាសា, ភាសាខ្មែរ",ltr,Khmr
+kn,kan,kan,Kannada,ಕನ್ನಡ,ltr,Knda
+ko,kor,kor,Korean,"한국어 (韓國語), 조선어 (朝鮮語)",ltr,Kore
+kr,kau,kau,Kanuri,Kanuri,ltr,NULL
+ks,kas,kas,Kashmiri,"कश्मीरी, كشميري‎",rtl,NULL
+ku,kur,kur,Kurdish,"Kurdî, كوردی‎",rtl,NULL
+kv,kom,kom,Komi,коми кыв,ltr,NULL
+kw,cor,cor,Cornish,Kernewek,ltr,NULL
+ky,kir,kir,Kyrgyz,"Кыргызча, Кыргыз тили",ltr,NULL
+la,lat,lat,Latin,"latine, lingua latina",ltr,Latn
+lb,ltz,ltz,"Luxembourgish, Letzeburgesch",Lëtzebuergesch,ltr,Latn
+lg,lug,lug,Ganda,Luganda,ltr,NULL
+li,lim,lim,"Limburgish, Limburgan, Limburger",Limburgs,ltr,NULL
+ln,lin,lin,Lingala,Lingála,ltr,Latn
+lo,lao,lao,Lao,ພາສາລາວ,ltr,Laoo
+lt,lit,lit,Lithuanian,lietuvių kalba,ltr,Latn
+lu,lub,lub,Luba-Katanga,Tshiluba,NULL,NULL
+lv,lav,lav,Latvian,latviešu valoda,ltr,Latn
+mg,mlg,mlg,Malagasy,fiteny malagasy,ltr,Latn
+mh,mah,mah,Marshallese,Kajin M̧ajeļ,ltr,Latn
+mi,mri,mao,Māori,te reo Māori,ltr,NULL
+mk,mkd,mac,Macedonian,македонски јазик,ltr,Cyrl
+ml,mal,mal,Malayalam,മലയാളം,ltr,Mlym
+mn,mon,mon,Mongolian,монгол,ltr,NULL
+mr,mar,mar,Marathi (Marāṭhī),मराठी,ltr,Deva
+ms,msa,may,Malay,"bahasa Melayu, بهاس ملايو‎",ltr,Latn
+mt,mlt,mlt,Maltese,Malti,ltr,Latn
+my,mya,bur,Burmese,ဗမာစာ,ltr,Mymr
+na,nau,nau,Nauru,Ekakairũ Naoero,ltr,Latn
+nb,nob,nob,Norwegian Bokmål,Norsk bokmål,ltr,Latn
+nd,nde,nde,North Ndebele,isiNdebele,ltr,Latn
+ne,nep,nep,Nepali,नेपाली,ltr,Deva
+ng,ndo,ndo,Ndonga,Owambo,ltr,NULL
+nl,nld,dut,Dutch,"Nederlands, Vlaams",ltr,Latn
+nn,nno,nno,Norwegian Nynorsk,Norsk nynorsk,ltr,Latn
+no,nor,nor,Norwegian,Norsk,ltr,Latn
+nr,nbl,nbl,South Ndebele,isiNdebele,ltr,Latn
+nv,nav,nav,"Navajo, Navaho","Diné bizaad, Dinékʼehǰí",ltr,NULL
+ny,nya,nya,Chichewa; Chewa; Nyanja,"chiCheŵa, chinyanja",ltr,Latn
+oc,oci,oci,Occitan,"occitan, lenga d'òc",ltr,NULL
+oj,oji,oji,"Ojibwe, Ojibwa",ᐊᓂᔑᓈᐯᒧᐎᓐ,ltr,NULL
+om,orm,orm,Oromo,Afaan Oromoo,ltr,Latn
+or,ori,ori,Oriya,ଓଡ଼ିଆ,ltr,Orya
+os,oss,oss,"Ossetian, Ossetic",ирон æвзаг,ltr,NULL
+pa,pan,pan,"Panjabi, Punjabi","ਪੰਜਾਬੀ, پنجابی‎",ltr,Guru
+pi,pli,pli,Pāli,पाऴि,ltr,NULL
+pl,pol,pol,Polish,"język polski, polszczyzna",ltr,Latn
+ps,pus,pus,"Pashto, Pushto",پښتو,rtl,Arab
+pt,por,por,Portuguese,português,ltr,Latn
+qu,que,que,Quechua,"Runa Simi, Kichwa",ltr,Latn
+rm,roh,roh,Romansh,rumantsch grischun,ltr,Latn
+rn,run,run,Kirundi,Ikirundi,ltr,Latn
+ro,ron,rum,Romanian,limba română,ltr,Latn
+ru,rus,rus,Russian,русский язык,ltr,Cyrl
+rw,kin,kin,Kinyarwanda,Ikinyarwanda,ltr,Latn
+sa,san,san,Sanskrit (Saṁskṛta),संस्कृतम्,ltr,NULL
+sc,srd,srd,Sardinian,sardu,ltr,NULL
+sd,snd,snd,Sindhi,"सिन्धी, سنڌي، سندھی‎",ltr,NULL
+se,sme,sme,Northern Sami,Davvisámegiella,ltr,NULL
+sg,sag,sag,Sango,yângâ tî sängö,ltr,Latn
+si,sin,sin,"Sinhala, Sinhalese",සිංහල,ltr,Sinh
+sk,slk,slo,Slovak,"slovenčina, slovenský jazyk",ltr,Latn
+sl,slv,slv,Slovene,"slovenski jezik, slovenščina",ltr,Latn
+sm,smo,smo,Samoan,gagana fa'a Samoa,ltr,Latn
+sn,sna,sna,Shona,chiShona,ltr,NULL
+so,som,som,Somali,"Soomaaliga, af Soomaali",ltr,Latn
+sq,sqi,alb,Albanian,gjuha shqipe,ltr,Latn
+sr,srp,srp,Serbian,српски језик,ltr,NULL
+ss,ssw,ssw,Swati,SiSwati,ltr,Latn
+st,sot,sot,Southern Sotho,Sesotho,ltr,Latn
+su,sun,sun,Sundanese,Basa Sunda,ltr,NULL
+sv,swe,swe,Swedish,Svenska,ltr,Latn
+sw,swa,swa,Swahili,Kiswahili,ltr,Latn
+ta,tam,tam,Tamil,தமிழ்,ltr,Taml
+te,tel,tel,Telugu,తెలుగు,ltr,Telu
+tg,tgk,tgk,Tajik,"тоҷикӣ, toğikī, تاجیکی‎",ltr,NULL
+th,tha,tha,Thai,ไทย,ltr,Thai
+ti,tir,tir,Tigrinya,ትግርኛ,ltr,Ethi
+tk,tuk,tuk,Turkmen,"Türkmen, Түркмен",ltr,NULL
+tl,tgl,tgl,Tagalog,"Wikang Tagalog, ᜏᜒᜃᜅ᜔ ᜆᜄᜎᜓᜄ᜔",ltr,Latn
+tn,tsn,tsn,Tswana,Setswana,ltr,Latn
+to,ton,ton,Tonga (Tonga Islands),faka Tonga,ltr,Latn
+tr,tur,tur,Turkish,Türkçe,ltr,Latn
+ts,tso,tso,Tsonga,Xitsonga,ltr,Latn
+tt,tat,tat,Tatar,"татар теле, tatar tele",ltr,NULL
+tw,twi,twi,Twi,Twi,ltr,NULL
+ty,tah,tah,Tahitian,Reo Tahiti,ltr,NULL
+ug,uig,uig,"Uyghur, Uighur","Uyƣurqə, ئۇيغۇرچە‎",ltr,NULL
+uk,ukr,ukr,Ukrainian,українська мова,ltr,Cyrl
+ur,urd,urd,Urdu,اردو,rtl,Arab
+uz,uzb,uzb,Uzbek,"O‘zbek, Ўзбек, أۇزبېك‎",ltr,NULL
+ve,ven,ven,Venda,Tshivenḓa,ltr,Latn
+vi,vie,vie,Vietnamese,Tiếng Việt,ltr,Latn
+vo,vol,vol,Volapük,Volapük,ltr,NULL
+wa,wln,wln,Walloon,walon,ltr,NULL
+wo,wol,wol,Wolof,Wollof,ltr,NULL
+xh,xho,xho,Xhosa,isiXhosa,ltr,Latn
+yi,yid,yid,Yiddish,ייִדיש,rtl,Hebr
+yo,yor,yor,Yoruba,Yorùbá,ltr,NULL
+za,zha,zha,"Zhuang, Chuang","Saɯ cueŋƅ, Saw cuengh",ltr,NULL
+zh,zho,chi,Chinese,"中文 (Zhōngwén), 汉语, 漢語",ltr,NULL
+zu,zul,zul,Zulu,isiZulu,ltr,Latn
