@@ -1,0 +1,1593 @@
+[
+    {
+        "ShortCode": "aa",
+        "Code6392B": "aar",
+        "Code6392T": "aar",
+        "LanguageName": "Afar",
+        "LanguageNative": "Afaraf",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "ab",
+        "Code6392B": "abk",
+        "Code6392T": "abk",
+        "LanguageName": "Abkhaz",
+        "LanguageNative": "аҧсуа бызшәа, аҧсшәа",
+        "Direction": "ltr",
+        "Script": "Cyrl"
+    },
+    {
+        "ShortCode": "ae",
+        "Code6392B": "ave",
+        "Code6392T": "ave",
+        "LanguageName": "Avestan",
+        "LanguageNative": "avesta"
+    },
+    {
+        "ShortCode": "af",
+        "Code6392B": "afr",
+        "Code6392T": "afr",
+        "LanguageName": "Afrikaans",
+        "LanguageNative": "Afrikaans",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "ak",
+        "Code6392B": "aka",
+        "Code6392T": "aka",
+        "LanguageName": "Akan",
+        "LanguageNative": "Akan",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "am",
+        "Code6392B": "amh",
+        "Code6392T": "amh",
+        "LanguageName": "Amharic",
+        "LanguageNative": "አማርኛ",
+        "Direction": "ltr",
+        "Script": "Ethi"
+    },
+    {
+        "ShortCode": "an",
+        "Code6392B": "arg",
+        "Code6392T": "arg",
+        "LanguageName": "Aragonese",
+        "LanguageNative": "aragonés",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "ar",
+        "Code6392B": "ara",
+        "Code6392T": "ara",
+        "LanguageName": "Arabic",
+        "LanguageNative": "العربية",
+        "Direction": "rtl",
+        "Script": "Arab"
+    },
+    {
+        "ShortCode": "as",
+        "Code6392B": "asm",
+        "Code6392T": "asm",
+        "LanguageName": "Assamese",
+        "LanguageNative": "অসমীয়া",
+        "Direction": "ltr",
+        "Script": "Beng"
+    },
+    {
+        "ShortCode": "av",
+        "Code6392B": "ava",
+        "Code6392T": "ava",
+        "LanguageName": "Avaric",
+        "LanguageNative": "авар мацӀ, магӀарул мацӀ",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "ay",
+        "Code6392B": "aym",
+        "Code6392T": "aym",
+        "LanguageName": "Aymara",
+        "LanguageNative": "aymar aru",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "az",
+        "Code6392B": "aze",
+        "Code6392T": "aze",
+        "LanguageName": "Azerbaijani",
+        "LanguageNative": "azərbaycan dili",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "az",
+        "Code6392B": "azb",
+        "Code6392T": "azb",
+        "LanguageName": "South Azerbaijani",
+        "LanguageNative": "تورکجه‎",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "ba",
+        "Code6392B": "bak",
+        "Code6392T": "bak",
+        "LanguageName": "Bashkir",
+        "LanguageNative": "башҡорт теле",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "be",
+        "Code6392B": "bel",
+        "Code6392T": "bel",
+        "LanguageName": "Belarusian",
+        "LanguageNative": "беларуская мова",
+        "Direction": "ltr",
+        "Script": "Cyrl"
+    },
+    {
+        "ShortCode": "bg",
+        "Code6392B": "bul",
+        "Code6392T": "bul",
+        "LanguageName": "Bulgarian",
+        "LanguageNative": "български език",
+        "Direction": "ltr",
+        "Script": "Cyrl"
+    },
+    {
+        "ShortCode": "bh",
+        "Code6392B": "bih",
+        "Code6392T": "bih",
+        "LanguageName": "Bihari",
+        "LanguageNative": "भोजपुरी",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "bi",
+        "Code6392B": "bis",
+        "Code6392T": "bis",
+        "LanguageName": "Bislama",
+        "LanguageNative": "Bislama",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "bm",
+        "Code6392B": "bam",
+        "Code6392T": "bam",
+        "LanguageName": "Bambara",
+        "LanguageNative": "bamanankan",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "bn",
+        "Code6392B": "ben",
+        "Code6392T": "ben",
+        "LanguageName": "Bengali; Bangla",
+        "LanguageNative": "বাংলা",
+        "Direction": "ltr",
+        "Script": "Beng"
+    },
+    {
+        "ShortCode": "bo",
+        "Code6392B": "bod",
+        "Code6392T": "tib",
+        "LanguageName": "Tibetan Standard, Tibetan, Central",
+        "LanguageNative": "བོད་ཡིག",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "br",
+        "Code6392B": "bre",
+        "Code6392T": "bre",
+        "LanguageName": "Breton",
+        "LanguageNative": "brezhoneg",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "bs",
+        "Code6392B": "bos",
+        "Code6392T": "bos",
+        "LanguageName": "Bosnian",
+        "LanguageNative": "bosanski jezik",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "ca",
+        "Code6392B": "cat",
+        "Code6392T": "cat",
+        "LanguageName": "Catalan; Valencian",
+        "LanguageNative": "català, valencià",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "ce",
+        "Code6392B": "che",
+        "Code6392T": "che",
+        "LanguageName": "Chechen",
+        "LanguageNative": "нохчийн мотт",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "ch",
+        "Code6392B": "cha",
+        "Code6392T": "cha",
+        "LanguageName": "Chamorro",
+        "LanguageNative": "Chamoru",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "co",
+        "Code6392B": "cos",
+        "Code6392T": "cos",
+        "LanguageName": "Corsican",
+        "LanguageNative": "corsu, lingua corsa",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "cr",
+        "Code6392B": "cre",
+        "Code6392T": "cre",
+        "LanguageName": "Cree",
+        "LanguageNative": "ᓀᐦᐃᔭᐍᐏᐣ",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "cs",
+        "Code6392B": "ces",
+        "Code6392T": "cze",
+        "LanguageName": "Czech",
+        "LanguageNative": "čeština, český jazyk",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "cu",
+        "Code6392B": "chu",
+        "Code6392T": "chu",
+        "LanguageName": "Old Church Slavonic, Church Slavonic, Old Bulgarian",
+        "LanguageNative": "ѩзыкъ словѣньскъ",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "cv",
+        "Code6392B": "chv",
+        "Code6392T": "chv",
+        "LanguageName": "Chuvash",
+        "LanguageNative": "чӑваш чӗлхи",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "cy",
+        "Code6392B": "cym",
+        "Code6392T": "wel",
+        "LanguageName": "Welsh",
+        "LanguageNative": "Cymraeg",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "da",
+        "Code6392B": "dan",
+        "Code6392T": "dan",
+        "LanguageName": "Danish",
+        "LanguageNative": "dansk",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "de",
+        "Code6392B": "deu",
+        "Code6392T": "ger",
+        "LanguageName": "German",
+        "LanguageNative": "Deutsch",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "dv",
+        "Code6392B": "div",
+        "Code6392T": "div",
+        "LanguageName": "Divehi; Dhivehi; Maldivian;",
+        "LanguageNative": "ދިވެހި",
+        "Direction": "rtl",
+        "Script": "Thaa"
+    },
+    {
+        "ShortCode": "dz",
+        "Code6392B": "dzo",
+        "Code6392T": "dzo",
+        "LanguageName": "Dzongkha",
+        "LanguageNative": "རྫོང་ཁ",
+        "Direction": "ltr",
+        "Script": "Tibt"
+    },
+    {
+        "ShortCode": "ee",
+        "Code6392B": "ewe",
+        "Code6392T": "ewe",
+        "LanguageName": "Ewe",
+        "LanguageNative": "Eʋegbe",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "el",
+        "Code6392B": "ell",
+        "Code6392T": "gre",
+        "LanguageName": "Greek, Modern",
+        "LanguageNative": "ελληνικά",
+        "Direction": "ltr",
+        "Script": "Grek"
+    },
+    {
+        "ShortCode": "en",
+        "Code6392B": "eng",
+        "Code6392T": "eng",
+        "LanguageName": "English",
+        "LanguageNative": "English",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "eo",
+        "Code6392B": "epo",
+        "Code6392T": "epo",
+        "LanguageName": "Esperanto",
+        "LanguageNative": "Esperanto",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "es",
+        "Code6392B": "spa",
+        "Code6392T": "spa",
+        "LanguageName": "Spanish; Castilian",
+        "LanguageNative": "español, castellano",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "et",
+        "Code6392B": "est",
+        "Code6392T": "est",
+        "LanguageName": "Estonian",
+        "LanguageNative": "eesti, eesti keel",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "eu",
+        "Code6392B": "eus",
+        "Code6392T": "baq",
+        "LanguageName": "Basque",
+        "LanguageNative": "euskara, euskera",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "fa",
+        "Code6392B": "fas",
+        "Code6392T": "per",
+        "LanguageName": "Persian (Farsi)",
+        "LanguageNative": "فارسی",
+        "Direction": "rtl",
+        "Script": "Arab"
+    },
+    {
+        "ShortCode": "ff",
+        "Code6392B": "ful",
+        "Code6392T": "ful",
+        "LanguageName": "Fula; Fulah; Pulaar; Pular",
+        "LanguageNative": "Fulfulde, Pulaar, Pular",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "fi",
+        "Code6392B": "fin",
+        "Code6392T": "fin",
+        "LanguageName": "Finnish",
+        "LanguageNative": "suomi, suomen kieli",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "fj",
+        "Code6392B": "fij",
+        "Code6392T": "fij",
+        "LanguageName": "Fijian",
+        "LanguageNative": "vosa Vakaviti",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "fo",
+        "Code6392B": "fao",
+        "Code6392T": "fao",
+        "LanguageName": "Faroese",
+        "LanguageNative": "føroyskt",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "fr",
+        "Code6392B": "fra",
+        "Code6392T": "fre",
+        "LanguageName": "French",
+        "LanguageNative": "français, langue française",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "fy",
+        "Code6392B": "fry",
+        "Code6392T": "fry",
+        "LanguageName": "Western Frisian",
+        "LanguageNative": "Frysk",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "ga",
+        "Code6392B": "gle",
+        "Code6392T": "gle",
+        "LanguageName": "Irish",
+        "LanguageNative": "Gaeilge",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "gd",
+        "Code6392B": "gla",
+        "Code6392T": "gla",
+        "LanguageName": "Scottish Gaelic; Gaelic",
+        "LanguageNative": "Gàidhlig",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "gl",
+        "Code6392B": "glg",
+        "Code6392T": "glg",
+        "LanguageName": "Galician",
+        "LanguageNative": "galego",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "gn",
+        "Code6392B": "grn",
+        "Code6392T": "grn",
+        "LanguageName": "Guaraní",
+        "LanguageNative": "Avañe'ẽ",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "gu",
+        "Code6392B": "guj",
+        "Code6392T": "guj",
+        "LanguageName": "Gujarati",
+        "LanguageNative": "ગુજરાતી",
+        "Direction": "ltr",
+        "Script": "Gujr"
+    },
+    {
+        "ShortCode": "gv",
+        "Code6392B": "glv",
+        "Code6392T": "glv",
+        "LanguageName": "Manx",
+        "LanguageNative": "Gaelg, Gailck",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "ha",
+        "Code6392B": "hau",
+        "Code6392T": "hau",
+        "LanguageName": "Hausa",
+        "LanguageNative": "Hausa, هَوُسَ",
+        "Direction": "rtl"
+    },
+    {
+        "ShortCode": "he",
+        "Code6392B": "heb",
+        "Code6392T": "heb",
+        "LanguageName": "Hebrew (modern)",
+        "LanguageNative": "עברית",
+        "Direction": "rtl",
+        "Script": "Hebr"
+    },
+    {
+        "ShortCode": "hi",
+        "Code6392B": "hin",
+        "Code6392T": "hin",
+        "LanguageName": "Hindi",
+        "LanguageNative": "हिन्दी, हिंदी",
+        "Direction": "ltr",
+        "Script": "Deva"
+    },
+    {
+        "ShortCode": "ho",
+        "Code6392B": "hmo",
+        "Code6392T": "hmo",
+        "LanguageName": "Hiri Motu",
+        "LanguageNative": "Hiri Motu",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "hr",
+        "Code6392B": "hrv",
+        "Code6392T": "hrv",
+        "LanguageName": "Croatian",
+        "LanguageNative": "hrvatski jezik",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "ht",
+        "Code6392B": "hat",
+        "Code6392T": "hat",
+        "LanguageName": "Haitian; Haitian Creole",
+        "LanguageNative": "Kreyòl ayisyen",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "hu",
+        "Code6392B": "hun",
+        "Code6392T": "hun",
+        "LanguageName": "Hungarian",
+        "LanguageNative": "magyar",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "hy",
+        "Code6392B": "hye",
+        "Code6392T": "arm",
+        "LanguageName": "Armenian",
+        "LanguageNative": "Հայերեն",
+        "Direction": "ltr",
+        "Script": "Armn"
+    },
+    {
+        "ShortCode": "hz",
+        "Code6392B": "her",
+        "Code6392T": "her",
+        "LanguageName": "Herero",
+        "LanguageNative": "Otjiherero",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "ia",
+        "Code6392B": "ina",
+        "Code6392T": "ina",
+        "LanguageName": "Interlingua",
+        "LanguageNative": "Interlingua",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "id",
+        "Code6392B": "ind",
+        "Code6392T": "ind",
+        "LanguageName": "Indonesian",
+        "LanguageNative": "Bahasa Indonesia",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "ie",
+        "Code6392B": "ile",
+        "Code6392T": "ile",
+        "LanguageName": "Interlingue",
+        "LanguageNative": "Originally called Occidental; then Interlingue after WWII",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "ig",
+        "Code6392B": "ibo",
+        "Code6392T": "ibo",
+        "LanguageName": "Igbo",
+        "LanguageNative": "Asụsụ Igbo",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "ii",
+        "Code6392B": "iii",
+        "Code6392T": "iii",
+        "LanguageName": "Nuosu",
+        "LanguageNative": "ꆈꌠ꒿ Nuosuhxop",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "ik",
+        "Code6392B": "ipk",
+        "Code6392T": "ipk",
+        "LanguageName": "Inupiaq",
+        "LanguageNative": "Iñupiaq, Iñupiatun",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "io",
+        "Code6392B": "ido",
+        "Code6392T": "ido",
+        "LanguageName": "Ido",
+        "LanguageNative": "Ido",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "is",
+        "Code6392B": "isl",
+        "Code6392T": "ice",
+        "LanguageName": "Icelandic",
+        "LanguageNative": "Íslenska",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "it",
+        "Code6392B": "ita",
+        "Code6392T": "ita",
+        "LanguageName": "Italian",
+        "LanguageNative": "italiano",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "iu",
+        "Code6392B": "iku",
+        "Code6392T": "iku",
+        "LanguageName": "Inuktitut",
+        "LanguageNative": "ᐃᓄᒃᑎᑐᑦ",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "ja",
+        "Code6392B": "jpn",
+        "Code6392T": "jpn",
+        "LanguageName": "Japanese",
+        "LanguageNative": "日本語 (にほんご)",
+        "Direction": "ltr",
+        "Script": "Jpan"
+    },
+    {
+        "ShortCode": "jv",
+        "Code6392B": "jav",
+        "Code6392T": "jav",
+        "LanguageName": "Javanese",
+        "LanguageNative": "basa Jawa",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "ka",
+        "Code6392B": "kat",
+        "Code6392T": "geo",
+        "LanguageName": "Georgian",
+        "LanguageNative": "ქართული",
+        "Direction": "ltr",
+        "Script": "Geor"
+    },
+    {
+        "ShortCode": "kg",
+        "Code6392B": "kon",
+        "Code6392T": "kon",
+        "LanguageName": "Kongo",
+        "LanguageNative": "KiKongo",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "ki",
+        "Code6392B": "kik",
+        "Code6392T": "kik",
+        "LanguageName": "Kikuyu, Gikuyu",
+        "LanguageNative": "Gĩkũyũ",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "kj",
+        "Code6392B": "kua",
+        "Code6392T": "kua",
+        "LanguageName": "Kwanyama, Kuanyama",
+        "LanguageNative": "Kuanyama",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "kk",
+        "Code6392B": "kaz",
+        "Code6392T": "kaz",
+        "LanguageName": "Kazakh",
+        "LanguageNative": "қазақ тілі",
+        "Direction": "ltr",
+        "Script": "Cyrl"
+    },
+    {
+        "ShortCode": "kl",
+        "Code6392B": "kal",
+        "Code6392T": "kal",
+        "LanguageName": "Kalaallisut, Greenlandic",
+        "LanguageNative": "kalaallisut, kalaallit oqaasii",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "km",
+        "Code6392B": "khm",
+        "Code6392T": "khm",
+        "LanguageName": "Khmer",
+        "LanguageNative": "ខ្មែរ, ខេមរភាសា, ភាសាខ្មែរ",
+        "Direction": "ltr",
+        "Script": "Khmr"
+    },
+    {
+        "ShortCode": "kn",
+        "Code6392B": "kan",
+        "Code6392T": "kan",
+        "LanguageName": "Kannada",
+        "LanguageNative": "ಕನ್ನಡ",
+        "Direction": "ltr",
+        "Script": "Knda"
+    },
+    {
+        "ShortCode": "ko",
+        "Code6392B": "kor",
+        "Code6392T": "kor",
+        "LanguageName": "Korean",
+        "LanguageNative": "한국어 (韓國語), 조선어 (朝鮮語)",
+        "Direction": "ltr",
+        "Script": "Kore"
+    },
+    {
+        "ShortCode": "kr",
+        "Code6392B": "kau",
+        "Code6392T": "kau",
+        "LanguageName": "Kanuri",
+        "LanguageNative": "Kanuri",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "ks",
+        "Code6392B": "kas",
+        "Code6392T": "kas",
+        "LanguageName": "Kashmiri",
+        "LanguageNative": "कश्मीरी, كشميري‎",
+        "Direction": "rtl"
+    },
+    {
+        "ShortCode": "ku",
+        "Code6392B": "kur",
+        "Code6392T": "kur",
+        "LanguageName": "Kurdish",
+        "LanguageNative": "Kurdî, كوردی‎",
+        "Direction": "rtl"
+    },
+    {
+        "ShortCode": "kv",
+        "Code6392B": "kom",
+        "Code6392T": "kom",
+        "LanguageName": "Komi",
+        "LanguageNative": "коми кыв",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "kw",
+        "Code6392B": "cor",
+        "Code6392T": "cor",
+        "LanguageName": "Cornish",
+        "LanguageNative": "Kernewek",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "ky",
+        "Code6392B": "kir",
+        "Code6392T": "kir",
+        "LanguageName": "Kyrgyz",
+        "LanguageNative": "Кыргызча, Кыргыз тили",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "la",
+        "Code6392B": "lat",
+        "Code6392T": "lat",
+        "LanguageName": "Latin",
+        "LanguageNative": "latine, lingua latina",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "lb",
+        "Code6392B": "ltz",
+        "Code6392T": "ltz",
+        "LanguageName": "Luxembourgish, Letzeburgesch",
+        "LanguageNative": "Lëtzebuergesch",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "lg",
+        "Code6392B": "lug",
+        "Code6392T": "lug",
+        "LanguageName": "Ganda",
+        "LanguageNative": "Luganda",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "li",
+        "Code6392B": "lim",
+        "Code6392T": "lim",
+        "LanguageName": "Limburgish, Limburgan, Limburger",
+        "LanguageNative": "Limburgs",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "ln",
+        "Code6392B": "lin",
+        "Code6392T": "lin",
+        "LanguageName": "Lingala",
+        "LanguageNative": "Lingála",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "lo",
+        "Code6392B": "lao",
+        "Code6392T": "lao",
+        "LanguageName": "Lao",
+        "LanguageNative": "ພາສາລາວ",
+        "Direction": "ltr",
+        "Script": "Laoo"
+    },
+    {
+        "ShortCode": "lt",
+        "Code6392B": "lit",
+        "Code6392T": "lit",
+        "LanguageName": "Lithuanian",
+        "LanguageNative": "lietuvių kalba",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "lu",
+        "Code6392B": "lub",
+        "Code6392T": "lub",
+        "LanguageName": "Luba-Katanga",
+        "LanguageNative": "Tshiluba"
+    },
+    {
+        "ShortCode": "lv",
+        "Code6392B": "lav",
+        "Code6392T": "lav",
+        "LanguageName": "Latvian",
+        "LanguageNative": "latviešu valoda",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "mg",
+        "Code6392B": "mlg",
+        "Code6392T": "mlg",
+        "LanguageName": "Malagasy",
+        "LanguageNative": "fiteny malagasy",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "mh",
+        "Code6392B": "mah",
+        "Code6392T": "mah",
+        "LanguageName": "Marshallese",
+        "LanguageNative": "Kajin M̧ajeļ",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "mi",
+        "Code6392B": "mri",
+        "Code6392T": "mao",
+        "LanguageName": "Māori",
+        "LanguageNative": "te reo Māori",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "mk",
+        "Code6392B": "mkd",
+        "Code6392T": "mac",
+        "LanguageName": "Macedonian",
+        "LanguageNative": "македонски јазик",
+        "Direction": "ltr",
+        "Script": "Cyrl"
+    },
+    {
+        "ShortCode": "ml",
+        "Code6392B": "mal",
+        "Code6392T": "mal",
+        "LanguageName": "Malayalam",
+        "LanguageNative": "മലയാളം",
+        "Direction": "ltr",
+        "Script": "Mlym"
+    },
+    {
+        "ShortCode": "mn",
+        "Code6392B": "mon",
+        "Code6392T": "mon",
+        "LanguageName": "Mongolian",
+        "LanguageNative": "монгол",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "mr",
+        "Code6392B": "mar",
+        "Code6392T": "mar",
+        "LanguageName": "Marathi (Marāṭhī)",
+        "LanguageNative": "मराठी",
+        "Direction": "ltr",
+        "Script": "Deva"
+    },
+    {
+        "ShortCode": "ms",
+        "Code6392B": "msa",
+        "Code6392T": "may",
+        "LanguageName": "Malay",
+        "LanguageNative": "bahasa Melayu, بهاس ملايو‎",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "mt",
+        "Code6392B": "mlt",
+        "Code6392T": "mlt",
+        "LanguageName": "Maltese",
+        "LanguageNative": "Malti",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "my",
+        "Code6392B": "mya",
+        "Code6392T": "bur",
+        "LanguageName": "Burmese",
+        "LanguageNative": "ဗမာစာ",
+        "Direction": "ltr",
+        "Script": "Mymr"
+    },
+    {
+        "ShortCode": "na",
+        "Code6392B": "nau",
+        "Code6392T": "nau",
+        "LanguageName": "Nauru",
+        "LanguageNative": "Ekakairũ Naoero",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "nb",
+        "Code6392B": "nob",
+        "Code6392T": "nob",
+        "LanguageName": "Norwegian Bokmål",
+        "LanguageNative": "Norsk bokmål",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "nd",
+        "Code6392B": "nde",
+        "Code6392T": "nde",
+        "LanguageName": "North Ndebele",
+        "LanguageNative": "isiNdebele",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "ne",
+        "Code6392B": "nep",
+        "Code6392T": "nep",
+        "LanguageName": "Nepali",
+        "LanguageNative": "नेपाली",
+        "Direction": "ltr",
+        "Script": "Deva"
+    },
+    {
+        "ShortCode": "ng",
+        "Code6392B": "ndo",
+        "Code6392T": "ndo",
+        "LanguageName": "Ndonga",
+        "LanguageNative": "Owambo",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "nl",
+        "Code6392B": "nld",
+        "Code6392T": "dut",
+        "LanguageName": "Dutch",
+        "LanguageNative": "Nederlands, Vlaams",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "nn",
+        "Code6392B": "nno",
+        "Code6392T": "nno",
+        "LanguageName": "Norwegian Nynorsk",
+        "LanguageNative": "Norsk nynorsk",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "no",
+        "Code6392B": "nor",
+        "Code6392T": "nor",
+        "LanguageName": "Norwegian",
+        "LanguageNative": "Norsk",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "nr",
+        "Code6392B": "nbl",
+        "Code6392T": "nbl",
+        "LanguageName": "South Ndebele",
+        "LanguageNative": "isiNdebele",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "nv",
+        "Code6392B": "nav",
+        "Code6392T": "nav",
+        "LanguageName": "Navajo, Navaho",
+        "LanguageNative": "Diné bizaad, Dinékʼehǰí",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "ny",
+        "Code6392B": "nya",
+        "Code6392T": "nya",
+        "LanguageName": "Chichewa; Chewa; Nyanja",
+        "LanguageNative": "chiCheŵa, chinyanja",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "oc",
+        "Code6392B": "oci",
+        "Code6392T": "oci",
+        "LanguageName": "Occitan",
+        "LanguageNative": "occitan, lenga d'òc",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "oj",
+        "Code6392B": "oji",
+        "Code6392T": "oji",
+        "LanguageName": "Ojibwe, Ojibwa",
+        "LanguageNative": "ᐊᓂᔑᓈᐯᒧᐎᓐ",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "om",
+        "Code6392B": "orm",
+        "Code6392T": "orm",
+        "LanguageName": "Oromo",
+        "LanguageNative": "Afaan Oromoo",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "or",
+        "Code6392B": "ori",
+        "Code6392T": "ori",
+        "LanguageName": "Oriya",
+        "LanguageNative": "ଓଡ଼ିଆ",
+        "Direction": "ltr",
+        "Script": "Orya"
+    },
+    {
+        "ShortCode": "os",
+        "Code6392B": "oss",
+        "Code6392T": "oss",
+        "LanguageName": "Ossetian, Ossetic",
+        "LanguageNative": "ирон æвзаг",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "pa",
+        "Code6392B": "pan",
+        "Code6392T": "pan",
+        "LanguageName": "Panjabi, Punjabi",
+        "LanguageNative": "ਪੰਜਾਬੀ, پنجابی‎",
+        "Direction": "ltr",
+        "Script": "Guru"
+    },
+    {
+        "ShortCode": "pi",
+        "Code6392B": "pli",
+        "Code6392T": "pli",
+        "LanguageName": "Pāli",
+        "LanguageNative": "पाऴि",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "pl",
+        "Code6392B": "pol",
+        "Code6392T": "pol",
+        "LanguageName": "Polish",
+        "LanguageNative": "język polski, polszczyzna",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "ps",
+        "Code6392B": "pus",
+        "Code6392T": "pus",
+        "LanguageName": "Pashto, Pushto",
+        "LanguageNative": "پښتو",
+        "Direction": "rtl",
+        "Script": "Arab"
+    },
+    {
+        "ShortCode": "pt",
+        "Code6392B": "por",
+        "Code6392T": "por",
+        "LanguageName": "Portuguese",
+        "LanguageNative": "português",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "qu",
+        "Code6392B": "que",
+        "Code6392T": "que",
+        "LanguageName": "Quechua",
+        "LanguageNative": "Runa Simi, Kichwa",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "rm",
+        "Code6392B": "roh",
+        "Code6392T": "roh",
+        "LanguageName": "Romansh",
+        "LanguageNative": "rumantsch grischun",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "rn",
+        "Code6392B": "run",
+        "Code6392T": "run",
+        "LanguageName": "Kirundi",
+        "LanguageNative": "Ikirundi",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "ro",
+        "Code6392B": "ron",
+        "Code6392T": "rum",
+        "LanguageName": "Romanian",
+        "LanguageNative": "limba română",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "ru",
+        "Code6392B": "rus",
+        "Code6392T": "rus",
+        "LanguageName": "Russian",
+        "LanguageNative": "русский язык",
+        "Direction": "ltr",
+        "Script": "Cyrl"
+    },
+    {
+        "ShortCode": "rw",
+        "Code6392B": "kin",
+        "Code6392T": "kin",
+        "LanguageName": "Kinyarwanda",
+        "LanguageNative": "Ikinyarwanda",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "sa",
+        "Code6392B": "san",
+        "Code6392T": "san",
+        "LanguageName": "Sanskrit (Saṁskṛta)",
+        "LanguageNative": "संस्कृतम्",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "sc",
+        "Code6392B": "srd",
+        "Code6392T": "srd",
+        "LanguageName": "Sardinian",
+        "LanguageNative": "sardu",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "sd",
+        "Code6392B": "snd",
+        "Code6392T": "snd",
+        "LanguageName": "Sindhi",
+        "LanguageNative": "सिन्धी, سنڌي، سندھی‎",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "se",
+        "Code6392B": "sme",
+        "Code6392T": "sme",
+        "LanguageName": "Northern Sami",
+        "LanguageNative": "Davvisámegiella",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "sg",
+        "Code6392B": "sag",
+        "Code6392T": "sag",
+        "LanguageName": "Sango",
+        "LanguageNative": "yângâ tî sängö",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "si",
+        "Code6392B": "sin",
+        "Code6392T": "sin",
+        "LanguageName": "Sinhala, Sinhalese",
+        "LanguageNative": "සිංහල",
+        "Direction": "ltr",
+        "Script": "Sinh"
+    },
+    {
+        "ShortCode": "sk",
+        "Code6392B": "slk",
+        "Code6392T": "slo",
+        "LanguageName": "Slovak",
+        "LanguageNative": "slovenčina, slovenský jazyk",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "sl",
+        "Code6392B": "slv",
+        "Code6392T": "slv",
+        "LanguageName": "Slovene",
+        "LanguageNative": "slovenski jezik, slovenščina",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "sm",
+        "Code6392B": "smo",
+        "Code6392T": "smo",
+        "LanguageName": "Samoan",
+        "LanguageNative": "gagana fa'a Samoa",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "sn",
+        "Code6392B": "sna",
+        "Code6392T": "sna",
+        "LanguageName": "Shona",
+        "LanguageNative": "chiShona",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "so",
+        "Code6392B": "som",
+        "Code6392T": "som",
+        "LanguageName": "Somali",
+        "LanguageNative": "Soomaaliga, af Soomaali",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "sq",
+        "Code6392B": "sqi",
+        "Code6392T": "alb",
+        "LanguageName": "Albanian",
+        "LanguageNative": "gjuha shqipe",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "sr",
+        "Code6392B": "srp",
+        "Code6392T": "srp",
+        "LanguageName": "Serbian",
+        "LanguageNative": "српски језик",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "ss",
+        "Code6392B": "ssw",
+        "Code6392T": "ssw",
+        "LanguageName": "Swati",
+        "LanguageNative": "SiSwati",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "st",
+        "Code6392B": "sot",
+        "Code6392T": "sot",
+        "LanguageName": "Southern Sotho",
+        "LanguageNative": "Sesotho",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "su",
+        "Code6392B": "sun",
+        "Code6392T": "sun",
+        "LanguageName": "Sundanese",
+        "LanguageNative": "Basa Sunda",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "sv",
+        "Code6392B": "swe",
+        "Code6392T": "swe",
+        "LanguageName": "Swedish",
+        "LanguageNative": "Svenska",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "sw",
+        "Code6392B": "swa",
+        "Code6392T": "swa",
+        "LanguageName": "Swahili",
+        "LanguageNative": "Kiswahili",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "ta",
+        "Code6392B": "tam",
+        "Code6392T": "tam",
+        "LanguageName": "Tamil",
+        "LanguageNative": "தமிழ்",
+        "Direction": "ltr",
+        "Script": "Taml"
+    },
+    {
+        "ShortCode": "te",
+        "Code6392B": "tel",
+        "Code6392T": "tel",
+        "LanguageName": "Telugu",
+        "LanguageNative": "తెలుగు",
+        "Direction": "ltr",
+        "Script": "Telu"
+    },
+    {
+        "ShortCode": "tg",
+        "Code6392B": "tgk",
+        "Code6392T": "tgk",
+        "LanguageName": "Tajik",
+        "LanguageNative": "тоҷикӣ, toğikī, تاجیکی‎",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "th",
+        "Code6392B": "tha",
+        "Code6392T": "tha",
+        "LanguageName": "Thai",
+        "LanguageNative": "ไทย",
+        "Direction": "ltr",
+        "Script": "Thai"
+    },
+    {
+        "ShortCode": "ti",
+        "Code6392B": "tir",
+        "Code6392T": "tir",
+        "LanguageName": "Tigrinya",
+        "LanguageNative": "ትግርኛ",
+        "Direction": "ltr",
+        "Script": "Ethi"
+    },
+    {
+        "ShortCode": "tk",
+        "Code6392B": "tuk",
+        "Code6392T": "tuk",
+        "LanguageName": "Turkmen",
+        "LanguageNative": "Türkmen, Түркмен",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "tl",
+        "Code6392B": "tgl",
+        "Code6392T": "tgl",
+        "LanguageName": "Tagalog",
+        "LanguageNative": "Wikang Tagalog, ᜏᜒᜃᜅ᜔ ᜆᜄᜎᜓᜄ᜔",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "tn",
+        "Code6392B": "tsn",
+        "Code6392T": "tsn",
+        "LanguageName": "Tswana",
+        "LanguageNative": "Setswana",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "to",
+        "Code6392B": "ton",
+        "Code6392T": "ton",
+        "LanguageName": "Tonga (Tonga Islands)",
+        "LanguageNative": "faka Tonga",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "tr",
+        "Code6392B": "tur",
+        "Code6392T": "tur",
+        "LanguageName": "Turkish",
+        "LanguageNative": "Türkçe",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "ts",
+        "Code6392B": "tso",
+        "Code6392T": "tso",
+        "LanguageName": "Tsonga",
+        "LanguageNative": "Xitsonga",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "tt",
+        "Code6392B": "tat",
+        "Code6392T": "tat",
+        "LanguageName": "Tatar",
+        "LanguageNative": "татар теле, tatar tele",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "tw",
+        "Code6392B": "twi",
+        "Code6392T": "twi",
+        "LanguageName": "Twi",
+        "LanguageNative": "Twi",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "ty",
+        "Code6392B": "tah",
+        "Code6392T": "tah",
+        "LanguageName": "Tahitian",
+        "LanguageNative": "Reo Tahiti",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "ug",
+        "Code6392B": "uig",
+        "Code6392T": "uig",
+        "LanguageName": "Uyghur, Uighur",
+        "LanguageNative": "Uyƣurqə, ئۇيغۇرچە‎",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "uk",
+        "Code6392B": "ukr",
+        "Code6392T": "ukr",
+        "LanguageName": "Ukrainian",
+        "LanguageNative": "українська мова",
+        "Direction": "ltr",
+        "Script": "Cyrl"
+    },
+    {
+        "ShortCode": "ur",
+        "Code6392B": "urd",
+        "Code6392T": "urd",
+        "LanguageName": "Urdu",
+        "LanguageNative": "اردو",
+        "Direction": "rtl",
+        "Script": "Arab"
+    },
+    {
+        "ShortCode": "uz",
+        "Code6392B": "uzb",
+        "Code6392T": "uzb",
+        "LanguageName": "Uzbek",
+        "LanguageNative": "O‘zbek, Ўзбек, أۇزبېك‎",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "ve",
+        "Code6392B": "ven",
+        "Code6392T": "ven",
+        "LanguageName": "Venda",
+        "LanguageNative": "Tshivenḓa",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "vi",
+        "Code6392B": "vie",
+        "Code6392T": "vie",
+        "LanguageName": "Vietnamese",
+        "LanguageNative": "Tiếng Việt",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "vo",
+        "Code6392B": "vol",
+        "Code6392T": "vol",
+        "LanguageName": "Volapük",
+        "LanguageNative": "Volapük",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "wa",
+        "Code6392B": "wln",
+        "Code6392T": "wln",
+        "LanguageName": "Walloon",
+        "LanguageNative": "walon",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "wo",
+        "Code6392B": "wol",
+        "Code6392T": "wol",
+        "LanguageName": "Wolof",
+        "LanguageNative": "Wollof",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "xh",
+        "Code6392B": "xho",
+        "Code6392T": "xho",
+        "LanguageName": "Xhosa",
+        "LanguageNative": "isiXhosa",
+        "Direction": "ltr",
+        "Script": "Latn"
+    },
+    {
+        "ShortCode": "yi",
+        "Code6392B": "yid",
+        "Code6392T": "yid",
+        "LanguageName": "Yiddish",
+        "LanguageNative": "ייִדיש",
+        "Direction": "rtl",
+        "Script": "Hebr"
+    },
+    {
+        "ShortCode": "yo",
+        "Code6392B": "yor",
+        "Code6392T": "yor",
+        "LanguageName": "Yoruba",
+        "LanguageNative": "Yorùbá",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "za",
+        "Code6392B": "zha",
+        "Code6392T": "zha",
+        "LanguageName": "Zhuang, Chuang",
+        "LanguageNative": "Saɯ cueŋƅ, Saw cuengh",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "zh",
+        "Code6392B": "zho",
+        "Code6392T": "chi",
+        "LanguageName": "Chinese",
+        "LanguageNative": "中文 (Zhōngwén), 汉语, 漢語",
+        "Direction": "ltr"
+    },
+    {
+        "ShortCode": "zu",
+        "Code6392B": "zul",
+        "Code6392T": "zul",
+        "LanguageName": "Zulu",
+        "LanguageNative": "isiZulu",
+        "Direction": "ltr",
+        "Script": "Latn"
+    }
+]
